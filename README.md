@@ -4,6 +4,6 @@ An app consisting of some of the best philosophical/motivational quotes out on t
 
 
 
-![screenshot1](screenshots/todolisticle1.jpg)
-![screenshot2](screenshots/todolisticle2.jpg)
-![screenshot3](screenshots/todolisticle3.jpg)
+![screenshot1](screenshots/linquotes1.jpg)
+![screenshot2](screenshots/linquotes2.jpg)
+![screenshot3](screenshots/linquotes3.jpg)
